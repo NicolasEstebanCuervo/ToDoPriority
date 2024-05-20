@@ -30,9 +30,8 @@
 
 ### `❌ Posible error al ejecutar el proyecto`
 
-- Si usted ejecuta el comando "npm start" Y le sale el siguien error "Error: Cannot find module 'react-scripts'" Esto puede ser debido a un error
-en las dependencia del proyecto. Para solucionarlo abra la terminal del proyecto y ejecute el siguiente comando "npm install react-scripts
-".
+- Si usted ejecuta el comando "npm start" Y le sale el siguien error "Error: Cannot find module 'react-scripts'" Esto puede ser debido a que las librerias aun no han sido instaladas.
+ Para solucionarlo abra la terminal del proyecto y ejecute el siguiente comando "npm install".
 
 ---
 
@@ -47,10 +46,4 @@ En caso tal de que te interese alguna de las librerias usadas aca te dejo una li
 - Emotion Css : npm install@emotion/css.
 - Emotion React : npm install @emotion/react.
 - Emotion Styled : npm install @emotion/styled.
-
-###  📚 Ejecucion de StoryBook:
-
--  Descargue las dependencias necesarias del proyecto.
--  En la terminal del editor de codigo ejecute "npm run storybook"
-
    
